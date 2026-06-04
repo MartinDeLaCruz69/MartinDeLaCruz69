@@ -48,37 +48,41 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,react,angular,js,ts,html,css,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,php,java,python" />
 </p>
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### 📱 Desarrollo Móvil
+### Desarrollo Móvil
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
 </p>
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -89,7 +93,7 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 ## 💼 Experiencia Profesional
 
-### 🏛️ Instituto de Educación de Aguascalientes (IEA)
+### Instituto de Educación de Aguascalientes (IEA)
 
 **Desarrollador de Software**
 
@@ -101,7 +105,7 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 ---
 
-### 🚗 Nissan Mexicana
+### Nissan Mexicana
 
 **Supervisor de Digitalización y Procesos**
 
@@ -124,7 +128,7 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 ## 🌟 Proyectos Destacados
 
-### 🌸 FLWRSTORE
+### FLWRSTORE
 
 Tienda en línea especializada en productos de K-Pop, desarrollada con enfoque en experiencia de usuario, administración de productos y escalabilidad para comercio electrónico.
 
@@ -149,7 +153,7 @@ Tienda en línea especializada en productos de K-Pop, desarrollada con enfoque e
 
 ---
 
-### 📱 Mi Portal IEA Mobile
+### Mi Portal IEA Mobile
 
 Aplicación móvil institucional desarrollada con React Native y Expo para facilitar el acceso a información y servicios del Instituto de Educación de Aguascalientes.
 
@@ -173,7 +177,7 @@ Aplicación móvil institucional desarrollada con React Native y Expo para facil
 
 ---
 
-### 📋 TaskRanger
+### TaskRanger
 
 Aplicación móvil para gestión de actividades, supervisión operativa y seguimiento geolocalizado orientada a procesos industriales.
 
@@ -189,7 +193,7 @@ Aplicación móvil para gestión de actividades, supervisión operativa y seguim
 
 ---
 
-### 🏭 Digitalización de Procesos Industriales
+### Digitalización de Procesos Industriales
 
 Proyecto enfocado en la transformación digital de procesos de manufactura mediante captura digital de producción, monitoreo de indicadores y análisis en tiempo real.
 
@@ -204,7 +208,7 @@ Proyecto enfocado en la transformación digital de procesos de manufactura media
 
 ---
 
-### 🗺️ Sistemas Georreferenciados Educativos
+### Sistemas Georreferenciados Educativos
 
 Desarrollo de aplicaciones web para consulta y visualización geográfica de información educativa mediante mapas interactivos y servicios especializados.
 
@@ -268,7 +272,7 @@ Universidad Tecnológica de Aguascalientes
 
 💻 **GitHub:** https://github.com/MartinDeLaCruz69
 
-💼 **LinkedIn:** [Agrega aquí tu perfil](https://www.linkedin.com/in/juanmartinesparzadelacruz/
+💼 **LinkedIn:** [Juan Martín Esparza de la Cruz](https://www.linkedin.com/in/juanmartinesparzadelacruz)
 
 ---
 
