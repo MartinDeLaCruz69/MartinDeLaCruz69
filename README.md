@@ -2,6 +2,8 @@
   <img src="./banner.png" width="100%">
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true)
+
 <h1 align="center">👋 Juan Martín Esparza de la Cruz</h1>
 
 <p align="center">
