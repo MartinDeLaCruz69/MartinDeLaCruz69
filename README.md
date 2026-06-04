@@ -70,8 +70,8 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 ### Desarrollo Móvil
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </p>
@@ -209,7 +209,7 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true&rank_icon=github&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true&theme=github_dark" />
 </p>
 
 ---
@@ -217,7 +217,7 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MartinDeLaCruz69&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MartinDeLaCruz69&theme=github-dark-blue" />
 </p>
 
 ---
