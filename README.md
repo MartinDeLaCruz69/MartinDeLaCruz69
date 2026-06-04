@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="./banner.png" width="100%">
-</p>
 
-<h1 align="center">👋 Hola, soy Juan Martín Esparza de la Cruz</h1>
 
-<h3 align="center">
-Software Engineer | Full Stack Developer | Process Automation | Data Analytics
-</h3>
+<h1 align="center">👋 Hola,</h1>
 
 <p align="center">
 Apasionado por construir soluciones digitales que generen impacto real mediante software, automatización y análisis de datos.
