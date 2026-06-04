@@ -48,10 +48,6 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
-
-## 🛠️ Tecnologías y Herramientas
-
 ### 🎨 Frontend
 
 <p>
