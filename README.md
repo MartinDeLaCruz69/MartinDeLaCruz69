@@ -22,6 +22,7 @@ Apasionado por construir soluciones digitales que generen impacto real mediante 
 <p align="center">
 📍 Aguascalientes, México
 </p>
+
 ---
 
 ## 🚀 Sobre mí
@@ -49,50 +50,44 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,react,angular,nodejs,dotnet,cs,js,ts,html,css,bootstrap,tailwind,mongodb,mysql,git,github,azure,vscode" />
+## 🛠️ Tecnologías y Herramientas
 
-</div>
+### 🎨 Frontend
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,js,ts,html,css,bootstrap,tailwind" />
+</p>
 
-- C#
-- .NET
-- Node.js
-- PHP
-- Java
-- Python
+### ⚙️ Backend
 
-### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,php,java,python" />
+</p>
 
-- Vue.js
-- React
-- Angular
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+### 🗄️ Bases de Datos
 
-### Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
-- SQL Server
-- Firebase
-- MongoDB
-- MySQL
+### 📱 Desarrollo Móvil
 
-### Datos y Visualización
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
 
-- Power BI
-- Tableau
-- Dashboards KPI
-- Análisis Operativo
+### ☁️ Cloud & DevOps
 
-### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
+</p>
 
-- React Native / Expo
-- Ionic
-- Android Studio
+### 📊 Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
 ---
 
@@ -231,8 +226,7 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinDeLaCruz69&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true&rank_icon=github&theme=transparent" />
 </p>
 
 ---
@@ -240,15 +234,7 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MartinDeLaCruz69" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinDeLaCruz69" />
+  <img src="https://streak-stats.demolab.com?user=MartinDeLaCruz69&theme=transparent&hide_border=true" />
 </p>
 
 ---
