@@ -13,7 +13,7 @@ Apasionado por construir soluciones digitales que generen impacto real mediante 
 </p>
 
 <p align="center">
-  📍 Aguascalientes, México • 🌎 Buscando oportunidades 100% remotas
+  📍 Aguascalientes, México
 </p>
 
 ---
