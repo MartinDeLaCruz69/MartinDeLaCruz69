@@ -1,30 +1,62 @@
-<h1 align="center">Juan Martín Esparza de la Cruz</h1>
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
+<h1 align="center">👋 Hola, soy Juan Martín Esparza de la Cruz</h1>
+
+<h3 align="center">
+Software Engineer | Full Stack Developer | Process Automation | Data Analytics
+</h3>
 
 <p align="center">
-  Software Engineer • Full Stack Developer • Process Automation • Data Analytics
+Apasionado por construir soluciones digitales que generen impacto real mediante software, automatización y análisis de datos.
 </p>
 
 <p align="center">
-  Aguascalientes, México
+  📍 Aguascalientes, México • 🌎 Buscando oportunidades 100% remotas
 </p>
 
 ---
 
-## About Me
+## 🚀 Sobre mí
 
-Software Engineer specialized in web development, process automation, and digital transformation.
+Soy **Ingeniero en Desarrollo y Gestión de Software** con experiencia en desarrollo web, aplicaciones móviles, automatización de procesos industriales y análisis de datos.
 
-My professional experience combines software engineering, industrial operations, and data-driven decision making. I have participated in the design and implementation of web applications, mobile solutions, dashboards, process digitalization initiatives, and enterprise systems for manufacturing and government institutions.
+He participado en proyectos para instituciones gubernamentales y empresas del sector automotriz, desarrollando soluciones escalables orientadas a optimizar procesos, visualizar información estratégica y mejorar la toma de decisiones.
 
-Currently working as a Software Developer at the Instituto de Educación de Aguascalientes (IEA), contributing to institutional platforms using modern web technologies and service-oriented architectures.
+Actualmente me desempeño como **Desarrollador de Software** en el Instituto de Educación de Aguascalientes (IEA), colaborando en aplicaciones web y móviles basadas en arquitecturas modernas y APIs REST.
 
-I'm actively seeking **100% remote opportunities** where I can contribute to scalable products, software development teams, and digital innovation projects.
+### 🎯 Intereses Profesionales
+
+- Desarrollo Full Stack
+- Arquitectura de Software
+- Automatización de Procesos
+- Aplicaciones Empresariales
+- Data Analytics & BI
+- Transformación Digital
+- Desarrollo Móvil
+- DevOps y CI/CD
 
 ---
 
-## Tech Stack
+## 🛠️ Tecnologías y Herramientas
 
-### Front-End
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,react,angular,nodejs,dotnet,cs,js,ts,html,css,bootstrap,tailwind,mongodb,mysql,git,github,azure,vscode" />
+
+</div>
+
+### Backend
+
+- C#
+- .NET
+- Node.js
+- PHP
+- Java
+- Python
+
+### Frontend
 
 - Vue.js
 - React
@@ -36,107 +68,218 @@ I'm actively seeking **100% remote opportunities** where I can contribute to sca
 - Bootstrap
 - Tailwind CSS
 
-### Back-End
-
-- C#
-- .NET
-- Node.js
-- PHP
-- Java
-
-### Mobile Development
-
-- React Native
-- Ionic
-- Android Studio
-
-### Databases
+### Bases de Datos
 
 - SQL Server
-- Oracle
+- Firebase
 - MongoDB
 - MySQL
 
-### Cloud & DevOps
-
-- Azure
-- GitHub
-- GitLab
-- Jenkins
-- REST APIs
-- CI/CD
-
-### Data & Analytics
+### Datos y Visualización
 
 - Power BI
 - Tableau
-- KPI Dashboards
-- Industrial Data Analysis
+- Dashboards KPI
+- Análisis Operativo
+
+### Mobile
+
+- React Native / Expo
+- Ionic
+- Android Studio
 
 ---
 
-## Professional Experience
+## 💼 Experiencia Profesional
 
-### Software Developer
-**Instituto de Educación de Aguascalientes (IEA)**
+### 🏛️ Instituto de Educación de Aguascalientes (IEA)
 
-- Development of institutional web applications using Vue.js.
-- Integration of REST APIs and geospatial solutions with Leaflet.
-- Mobile application development with React Native.
-- Backend integration with C# and .NET services.
-- Participation throughout the complete software development lifecycle.
+**Desarrollador de Software**
 
-### Digitalization & Process Supervisor
-**Nissan Mexicana**
-
-- Process automation and digital transformation initiatives.
-- Development of internal web and mobile applications.
-- KPI monitoring systems and operational dashboards.
-- Leadership of multidisciplinary teams.
-- Industrial process optimization through software solutions.
+- Desarrollo de aplicaciones web institucionales con Vue.js
+- Integración de APIs REST
+- Sistemas georreferenciados mediante Leaflet
+- Aplicaciones móviles con React Native
+- Integración con servicios desarrollados en .NET
 
 ---
 
-## Featured Areas
+### 🚗 Nissan Mexicana
 
-- Full Stack Development
-- Enterprise Applications
-- Process Automation
-- Industrial Digitalization
-- Data Visualization
-- Mobile Development
-- Software Architecture
-- REST API Integration
+**Supervisor de Digitalización y Procesos**
 
----
-
-## Education
-
-**Master's Degree in Software Development** *(Title in process)*
-
-Instituto Universitario Veracruzano
-
-**Bachelor's Degree in Software Development and Management**
-
-Universidad Tecnológica de Aguascalientes
+- Liderazgo de iniciativas de transformación digital
+- Automatización de procesos industriales
+- Desarrollo de aplicaciones internas
+- Sistemas de monitoreo KPI en tiempo real
+- Gestión y coordinación de equipos multidisciplinarios
 
 ---
 
-## Languages
+### 📊 Experiencia Adicional
 
-- Spanish (Native)
-- English (B2)
+- Analista de Sistemas de Calidad
+- Data & Process Analyst
+- Full Stack Intern
+- Soporte Técnico e Infraestructura
 
 ---
 
-## Connect With Me
+## 🌟 Proyectos Destacados
 
-<p>
-  <a href="mailto:martindelacruz169@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/MartinDeLaCruz69">GitHub</a>
+### 🌸 FLWRSTORE
+
+Tienda en línea especializada en productos de K-Pop, desarrollada con enfoque en experiencia de usuario, administración de productos y escalabilidad para comercio electrónico.
+
+**Características**
+
+* Catálogo dinámico de productos
+* Gestión de inventario
+* Diseño responsive
+* Experiencia de compra optimizada
+* Panel administrativo
+* Integración con servicios web
+
+**Tecnologías**
+
+* Vue.js
+* JavaScript
+* CSS3
+* Firebase
+* GitHub Actions
+
+🔗 Sitio: https://flwrstore.com.mx
+
+---
+
+### 📱 Mi Portal IEA Mobile
+
+Aplicación móvil institucional desarrollada con React Native y Expo para facilitar el acceso a información y servicios del Instituto de Educación de Aguascalientes.
+
+**Características**
+
+* Autenticación de usuarios
+* Consulta de información institucional
+* Consumo de APIs REST
+* Experiencia multiplataforma (Android / iOS)
+* Integración con servicios gubernamentales
+
+**Tecnologías**
+
+* React Native
+* Expo
+* JavaScript
+* REST APIs
+* .NET Backend
+
+🔗 Portal relacionado: https://miportal.iea.edu.mx
+
+---
+
+### 📋 TaskRanger
+
+Aplicación móvil para gestión de actividades, supervisión operativa y seguimiento geolocalizado orientada a procesos industriales.
+
+**Tecnologías**
+
+* Ionic
+* Angular
+* Firebase
+* TypeScript
+* Geolocalización
+
+---
+
+### 🏭 Digitalización de Procesos Industriales
+
+Proyecto enfocado en la transformación digital de procesos de manufactura mediante captura digital de producción, monitoreo de indicadores y análisis en tiempo real.
+
+**Tecnologías**
+
+* Power Apps
+* Power BI
+* SharePoint
+* Excel Online
+
+---
+
+### 🗺️ Sistemas Georreferenciados Educativos
+
+Desarrollo de aplicaciones web para consulta y visualización geográfica de información educativa mediante mapas interactivos y servicios especializados.
+
+**Tecnologías**
+
+* Vue.js
+* Leaflet
+* .NET
+* REST APIs
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinDeLaCruz69&layout=compact" />
 </p>
 
 ---
 
-> Building software that solves real-world problems through technology, automation, and continuous improvement.
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MartinDeLaCruz69" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinDeLaCruz69" />
+</p>
+
+---
+
+## 🌱 Actualmente
+
+- Profundizando en .NET y Arquitectura de Software
+- Construyendo aplicaciones Full Stack modernas
+- Explorando DevOps y CI/CD
+- Mejorando prácticas de diseño y escalabilidad
+- Buscando nuevos retos profesionales remotos
+
+---
+
+## 🎓 Formación
+
+**Maestría en Desarrollo de Software**  
+Instituto Universitario Veracruzano *(Título en proceso)*
+
+**Ingeniería en Desarrollo y Gestión de Software**  
+Universidad Tecnológica de Aguascalientes
+
+---
+
+## 🌎 Idiomas
+
+- 🇲🇽 Español — Nativo
+- 🇺🇸 Inglés — B2
+
+---
+
+## 📫 Contacto
+
+📧 **martindelacruz169@gmail.com**
+
+💻 **GitHub:** https://github.com/MartinDeLaCruz69
+
+💼 **LinkedIn:** [Agrega aquí tu perfil](https://www.linkedin.com/in/juanmartinesparzadelacruz/
+
+---
+
+<div align="center">
+
+*"Building software that transforms processes into opportunities."*
+
+</div>
