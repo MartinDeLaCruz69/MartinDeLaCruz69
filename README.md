@@ -2,7 +2,14 @@
   <img src="./banner.png" width="100%">
 </p>
 
-<h1 align="center">👋 Hola</h1>
+<h1 align="center">👋 Hola, Soy Martín de la Cruz</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-Developer-42b883?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to_Remote_Work-success?style=for-the-badge" />
+</p>
 
 <p align="center">
 Apasionado por construir soluciones digitales que generen impacto real mediante software, automatización y análisis de datos.
