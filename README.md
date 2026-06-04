@@ -206,6 +206,13 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 
 ---
 
+## ⚡ Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🌱 Actualmente
 
 - Profundizando en .NET y Arquitectura de Software
