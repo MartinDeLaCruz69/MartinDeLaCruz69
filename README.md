@@ -206,22 +206,6 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinDeLaCruz69&show_icons=true&theme=github_dark" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MartinDeLaCruz69&theme=github-dark-blue" />
-</p>
-
----
-
 ## 🌱 Actualmente
 
 - Profundizando en .NET y Arquitectura de Software
