@@ -9,7 +9,6 @@ jobs:
 update-readme:
 runs-on: ubuntu-latest
 
-```
 permissions:
   contents: write
 
@@ -26,4 +25,3 @@ steps:
       MAX_LINES: 8
       COMMIT_NAME: github-actions[bot]
       COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-```
