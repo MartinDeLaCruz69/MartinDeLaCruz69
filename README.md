@@ -2,13 +2,17 @@
   <img src="./banner.png" width="100%">
 </p>
 
-<h1 align="center">👋 Hola, Soy Martín de la Cruz</h1>
+<h1 align="center">👋 Juan Martín Esparza de la Cruz</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-Developer-42b883?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to_Remote_Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VUE.JS-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+Software Engineer | Full Stack Developer | Process Automation | Data Analytics
 </p>
 
 <p align="center">
@@ -16,9 +20,8 @@ Apasionado por construir soluciones digitales que generen impacto real mediante 
 </p>
 
 <p align="center">
-  📍 Aguascalientes, México
+📍 Aguascalientes, México
 </p>
-
 ---
 
 ## 🚀 Sobre mí
