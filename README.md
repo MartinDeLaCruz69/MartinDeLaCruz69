@@ -71,9 +71,9 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
 ### Cloud & DevOps
@@ -132,15 +132,6 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 Tienda en línea especializada en productos de K-Pop, desarrollada con enfoque en experiencia de usuario, administración de productos y escalabilidad para comercio electrónico.
 
-**Características**
-
-* Catálogo dinámico de productos
-* Gestión de inventario
-* Diseño responsive
-* Experiencia de compra optimizada
-* Panel administrativo
-* Integración con servicios web
-
 **Tecnologías**
 
 * Vue.js
@@ -156,14 +147,6 @@ Tienda en línea especializada en productos de K-Pop, desarrollada con enfoque e
 ### Mi Portal IEA Mobile
 
 Aplicación móvil institucional desarrollada con React Native y Expo para facilitar el acceso a información y servicios del Instituto de Educación de Aguascalientes.
-
-**Características**
-
-* Autenticación de usuarios
-* Consulta de información institucional
-* Consumo de APIs REST
-* Experiencia multiplataforma (Android / iOS)
-* Integración con servicios gubernamentales
 
 **Tecnologías**
 
