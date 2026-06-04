@@ -1,27 +1,24 @@
-name: .github/workflows/update-readme.yml
+name: Actualizar Actividad Reciente
 
 on:
-schedule:
-- cron: "0 */12 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
 
 jobs:
-update-readme:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-permissions:
-  contents: write
+    permissions:
+      contents: write
 
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - uses: actions/checkout@v4
 
-  - name: Update README with activity
-    uses: jamesgeorge007/github-activity-readme@master
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    with:
-      COMMIT_MSG: "docs: update github activity"
-      MAX_LINES: 8
-      COMMIT_NAME: github-actions[bot]
-      COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+          MAX_LINES: 10
