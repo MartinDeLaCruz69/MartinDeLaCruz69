@@ -1,24 +1,29 @@
-name: Actualizar Actividad Reciente
+name: Update README
 
 on:
-  schedule:
-    - cron: "0 */4 * * *"
-  workflow_dispatch:
+schedule:
+- cron: "0 */12 * * *"
+workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+build:
+name: Update this repo's README with recent activity
+runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
+```
+permissions:
+  contents: write
 
-    steps:
-      - uses: actions/checkout@v4
+steps:
+  - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_NAME: github-actions[bot]
-          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-          MAX_LINES: 10
+  - uses: jamesgeorge007/github-activity-readme@master
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    with:
+      COMMIT_MSG: "Update recent activity"
+      MAX_LINES: 10
+      COMMIT_NAME: GitHub Activity Readme
+      COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+      FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,WatchEvent,ForkEvent
+```
