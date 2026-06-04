@@ -10,7 +10,6 @@ build:
 name: Update this repo's README with recent activity
 runs-on: ubuntu-latest
 
-```
 permissions:
   contents: write
 
@@ -26,4 +25,3 @@ steps:
       COMMIT_NAME: GitHub Activity Readme
       COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
       FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,WatchEvent,ForkEvent
-```
