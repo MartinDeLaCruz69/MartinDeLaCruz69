@@ -172,7 +172,7 @@ Aplicación móvil institucional desarrollada con React Native y Expo para facil
 * REST APIs
 * .NET Backend
 
-🔗 Portal relacionado: https://miportal.iea.edu.mx
+🔗 Sitio: CENSURADO POR POLITICAS DE PRIVACIDAD
 
 ---
 
@@ -188,6 +188,8 @@ Aplicación móvil para gestión de actividades, supervisión operativa y seguim
 * TypeScript
 * Geolocalización
 
+🔗 Sitio: https://task-ranger-jcbc5a7k0-martindelacruz69.vercel.app
+
 ---
 
 ### 🏭 Digitalización de Procesos Industriales
@@ -201,6 +203,8 @@ Proyecto enfocado en la transformación digital de procesos de manufactura media
 * SharePoint
 * Excel Online
 
+🔗 Sitio: CENSURADO POR POLITICAS DE PRIVACIDAD
+
 ---
 
 ### 🗺️ Sistemas Georreferenciados Educativos
@@ -213,6 +217,8 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 * Leaflet
 * .NET
 * REST APIs
+
+🔗 Sitio: CENSURADO POR POLITICAS DE PRIVACIDAD
 
 ---
 
