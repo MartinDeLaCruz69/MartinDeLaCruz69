@@ -37,11 +37,11 @@ Actualmente me desempeño como **Desarrollador de Software** en el Instituto de 
 
 - Desarrollo Full Stack
 - Arquitectura de Software
+- Desarrollo Móvil
+- Data Analytics & BI
 - Automatización de Procesos
 - Aplicaciones Empresariales
-- Data Analytics & BI
 - Transformación Digital
-- Desarrollo Móvil
 - DevOps y CI/CD
 
 ---
@@ -136,9 +136,8 @@ Tienda en línea especializada en productos de K-Pop, desarrollada con enfoque e
 
 * Vue.js
 * JavaScript
-* CSS3
+* Tailwind CSS
 * Firebase
-* GitHub Actions
 
 🔗 Sitio: https://flwrstore.com.mx
 
@@ -154,7 +153,7 @@ Aplicación móvil institucional desarrollada con React Native y Expo para facil
 * Expo
 * JavaScript
 * REST APIs
-* .NET Backend
+* .NET
 
 🔗 Sitio: CENSURADO POR POLITICAS DE PRIVACIDAD
 
@@ -170,7 +169,6 @@ Aplicación móvil para gestión de actividades, supervisión operativa y seguim
 * Angular
 * Firebase
 * TypeScript
-* Geolocalización
 
 🔗 Sitio: https://task-ranger-jcbc5a7k0-martindelacruz69.vercel.app
 
@@ -182,9 +180,9 @@ Proyecto enfocado en la transformación digital de procesos de manufactura media
 
 **Tecnologías**
 
-* Power Apps
+* Power Apps y Angular
 * Power BI
-* SharePoint
+* Mongo DB
 * Excel Online
 
 🔗 Sitio: CENSURADO POR POLITICAS DE PRIVACIDAD
@@ -227,16 +225,18 @@ Desarrollo de aplicaciones web para consulta y visualización geográfica de inf
 - Construyendo aplicaciones Full Stack modernas
 - Explorando DevOps y CI/CD
 - Mejorando prácticas de diseño y escalabilidad
-- Buscando nuevos retos profesionales remotos
 
 ---
 
 ## 🎓 Formación
 
-**Maestría en Desarrollo de Software**  
+**Maestría en Desarrollo y Gestión de Software**  
 Instituto Universitario Veracruzano *(Título en proceso)*
 
 **Ingeniería en Desarrollo y Gestión de Software**  
+Universidad Tecnológica de Aguascalientes
+
+**TSU en Tecnologías de la Información**  
 Universidad Tecnológica de Aguascalientes
 
 ---
@@ -257,9 +257,3 @@ Universidad Tecnológica de Aguascalientes
 💼 **LinkedIn:** [Juan Martín Esparza de la Cruz](https://www.linkedin.com/in/juanmartinesparzadelacruz)
 
 ---
-
-<div align="center">
-
-*"Building software that transforms processes into opportunities."*
-
-</div>
