@@ -243,8 +243,8 @@ Universidad Tecnológica de Aguascalientes
 
 ## 🌎 Idiomas
 
-- 🇲🇽 Español — Nativo
-- 🇺🇸 Inglés — B2
+-  Español — Nativo
+-  Inglés — B2
 
 ---
 
